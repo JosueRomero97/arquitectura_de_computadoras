@@ -1,0 +1,5 @@
+A comparación propia se considera python como un lenguaje más sencillo
+debido a que la sintaxis de la lógica es más directa. 
+No necesita punto y coma para separar cada punto.
+no necesita especificar cada variable o función como en el caso de python.
+

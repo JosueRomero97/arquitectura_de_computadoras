@@ -12,3 +12,10 @@ git push -u origin main
 
 
 resolucion de studio, labs y practicas
+
+ git config --list
+ git config user.name
+
+ git config --global user.name "John Doe"
+
+ 

@@ -1,0 +1,5 @@
+para los 3 casos tiende a ser similaar
+para el caso de C. debido a que el proceso es muy simple y no complejo. el valor se mantiene constante.
+
+En el casod el caso python tiende a mantenerse constante los valores, solo varia un +1/-1 con respecto a los otros valores. 
+
